@@ -13,3 +13,4 @@ Probability of livestock predation in relation to elevation and distance from th
 
 Reference:
 
+[Palmeira FBL, Crawshaw Jr PG, Haddad CM, Ferraz KMP, Verdade LM. (2008).](https://doi.org/10.1016/j.biocon.2007.09.015) Cattle depredation by puma (Puma concolor) and jaguar (Panthera onca) in central-western Brazil. Biological Conservation 141(1), 118-125.
