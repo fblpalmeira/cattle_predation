@@ -8,6 +8,7 @@ I have recreated the Figure 3 by displaying the 95% confidence interval bands, a
 
 - [Database `.csv`](https://github.com/fblpalmeira/cattle_predation/blob/main/livestock_predation.csv)
 
+<img src="https://github.com/fblpalmeira/cattle_predation/blob/main/Fig3_Palmeira_etal_2008.png">
 <img src="https://github.com/fblpalmeira/cattle_predation/blob/main/livestock_predation2.png">
 
 Reference:
