@@ -6,7 +6,7 @@ In this study, data on cattle depredation by puma (Puma concolor) and jaguar (Pa
 
 - [Database `.csv`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/cattle_predation/blob/main/livestock_predation2.png">
 
 Reference:
 
