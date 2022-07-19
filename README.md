@@ -4,7 +4,7 @@ In this study, data on cattle depredation by puma (Puma concolor) and jaguar (Pa
 
 - [Script `.R`](https://github.com/fblpalmeira/cattle_predation/blob/main/livestock_predation.R)
 
-- [Database `.csv`]()
+- [Database `.csv`](https://github.com/fblpalmeira/cattle_predation/blob/main/livestock_predation.csv)
 
 <img src="https://github.com/fblpalmeira/cattle_predation/blob/main/livestock_predation2.png">
 
